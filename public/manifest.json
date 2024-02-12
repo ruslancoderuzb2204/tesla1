@@ -1,0 +1,25 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F342292%2Ftesla&psig=AOvVaw3zuUhXXdsTlmQBc22bD5SA&ust=1707796047943000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDZipvypIQDFQAAAAAdAAAAABAE",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F342292%2Ftesla&psig=AOvVaw3zuUhXXdsTlmQBc22bD5SA&ust=1707796047943000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDZipvypIQDFQAAAAAdAAAAABAE",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F342292%2Ftesla&psig=AOvVaw3zuUhXXdsTlmQBc22bD5SA&ust=1707796047943000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDZipvypIQDFQAAAAAdAAAAABAE",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
